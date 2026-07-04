@@ -8,6 +8,14 @@
 - English B2-C1
 - Russian native
 
+| Project | Description | Stack |
+|---|---|---|
+| 🎨 [ColorLab — online color tools for designers](https://colorlab.design) | Color utilities, palettes and design helpers for UI/UX workflows. | React / Next.js |
+| 🌙 [DreamSymbols — dream meaning dictionary](https://dreamsymbols.app) | A web app for exploring dream symbols and interpretations. | Next.js / SEO |
+| 🖼️ [OKIMG — simple image tools](https://okimg.de) | Fast browser-based tools for working with images. | React / Web Tools |
+| 🔮 [TarotEcho — tarot reading app](https://tarotecho.com) | Tarot card readings and spiritual content experience. | Next.js / Content SEO |
+
+
 
 ### 💰 Lokin for a job right now
 
